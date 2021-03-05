@@ -1,7 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo);
 body {
-    background-color: rgb(200,200,200);
-    color: rgb(0,0,0);
-    font-family: "Open Sans", sans-serif;
+    background-color: rgb(49, 94, 61);
+    color: rgb(143, 199, 158);
+    font-family: 'Arimo';
     text-align: center;
 }
 
